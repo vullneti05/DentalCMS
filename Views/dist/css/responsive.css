@@ -1,0 +1,482 @@
+@media (min-width:768px) {
+	#page-content-wrapper {
+		min-width: 0;
+		width: 100%;
+	}
+
+}
+
+@media (min-width:768px) {
+	#sidebar-wrapper {
+		margin-left: 0 !important;
+	}
+
+}
+
+@media (max-width:1400px) {
+	.responsive-ipad {
+		font-size: 10px;
+	}
+
+	.responsive-ipad-users {
+		font-size: 10px;
+		margin-left: 97px !important;
+		margin-top: -5px;
+	}
+
+	.img-navbar {
+		font-size: 13px !important;
+	}
+
+}
+
+@media(max-width:575px) {
+	body {
+		background-position: center 3000px !important;
+	}
+	.btn-success-custom{
+		width: 100px;	
+		margin-left: 150px!important;
+	}
+	.dropdown-menu.show{
+		position: fixed;
+		margin-top: 20px;
+	}
+
+	.custom-row{
+		width: 130px;
+		margin-left: -30px;
+	}
+
+	.custom-row .home-card img{
+		width: 250px;
+	}
+
+	.custom-dropdown {
+		height: 30px;
+		display: block !important;
+		overflow-y: hidden;
+	}
+
+	.home-h4 {
+		margin-top: 40px !important;
+	}
+
+	.custom-responsive-table {
+		width: 95%;
+	}
+
+	.home-card {
+		font-size: 10px;
+	}
+
+	.costum-input-home{
+		margin-top: 10px;
+		font-size: 10px;
+	}
+	
+	.custum-label-res{
+		margin-top: 50px!important;
+	}
+	.costum-input-home::placeholder {
+		font-size: 9px;
+	}
+	.res-labe{
+		margin-top: 25px!important;
+	}
+
+	.res-bi{
+		margin-left: 25px!important;
+	}
+
+	.costum-input-home:hover::placeholder {
+		font-size: 11px;
+		opacity: 0.9;
+		transition: .6s;
+	}
+
+	.mt-3 .custom-bold {
+		line-height: 2.5;
+		margin-left: 1px;
+	}
+
+	.custom-left-side {
+		margin-top: 150px;
+		margin-left: 190px;
+		margin-right: -140px;
+		cursor: pointer;
+	}
+
+	.custom-left-side span {
+		color: transparent;
+	}
+
+	.custom-logo-navbar .btn-light .dental {
+		display: none !important;
+	}
+
+	.custom-logo-navbar .btn-light .cms {
+		display: none !important;
+	}
+
+	.custom-d {
+		display: block !important;
+		color: #000 !important;
+	}
+
+	.custom-c {
+		display: block !important;
+		color: #2076B7 !important;
+	}
+
+	.custom-responsive-span {
+		margin-top: -26px !important;
+		margin-right: -9px !important;
+	}
+
+	.custom-logo-navbar {
+		padding-top: 40px !important;
+	}
+
+	.custom-left-side a:hover {
+		color: #2076B7;
+		border-left: 0 solid #2076B7 !important;
+	}
+
+	.costum-input-home span {
+		font-size: 9px;
+		line-height: 3.5;
+	}
+
+	.dropdown-menu-right {
+		top: -20px;
+		left: 150px;	
+	}
+
+	.dropdown, .dropleft, .dropright, .dropup {
+		position: relative!important;
+	}
+
+	.custom-responsive-myaccount {
+		text-decoration: none;
+		margin-left: 1px !important;
+		font-size: 15px;
+		font-family: 'Poppins',sans-serif;
+		color: inherit;
+		margin-top: -9px;
+	}
+
+	.custom-responsive-icon {
+		margin-top: 0px;
+		padding-left: 17px;
+	}
+
+	.custom-responsive-icon-account {
+		padding-right: 10px;
+		margin-top: 4px;
+	}
+
+	.custom-responsive-img {
+		margin-right: 5px;
+		margin-left: -3px;
+	}
+
+	.custom-responsive-row-account::placeholder {
+		font-size: 14px !important;
+		opacity: 0.8;
+	}
+
+	.custom-file-label::after {
+		position: absolute;
+		top: 0px;
+		right: 0;
+		bottom: 0px;
+		z-index: 3;
+		display: block;
+		height: calc(1.6em + 1.9rem);
+		padding: .375rem .75rem;
+		line-height: 3.1;
+		color: #fff;
+		content: "Choose file";
+		background-color: #2076B7;
+		border-left: inherit;
+		border-radius: 0 .25rem .25rem 0;
+		font-size: 10px;
+	}
+
+	.custom-file-input {
+		width: 90% !important;
+		margin-top: 20px;	
+	}
+
+	.custom-responsive {
+		margin-left: 5px !important;
+	}
+
+	.card-body-textarea {
+		font-size: 12px;
+		margin-left: 10px!important;
+	}
+	
+	.card-body-textarea-aboutus{
+		margin-left: 50px!important;
+	}
+
+	.custom-responsive::placeholder {
+		font-size: 14px;
+	}
+
+	.custom-col-responsive {
+		margin-top: -50px;
+	}
+
+	.custom-modal-responsive {
+		left: 43px;
+		width: 85%;
+	}
+
+	.costum-input-home::placeholder {
+		font-size: 9px;
+	}
+
+	.custom-responsive-surname {
+		margin-left: 30px !important;
+	}
+	.custom-responsive-surname-aboutus{
+		margin-left: 22px!important;s
+	}
+
+	.custom-responsive-name {
+		margin-left: 45px !important;
+	}
+
+	.custom-responsive-clients-surname {
+		margin-left: 35px !important;
+	}
+
+	.custom-responsive-user-surname {
+		margin-left: 35px !important;
+	}
+
+	.custo {
+		margin-left: 50px !important;
+		padding-left: 2.5rem !important;
+	}
+
+	.custom-users {
+		margin-left: 175px !important;
+		margin-top: -96px !important;
+	}
+
+	.custom-appointmens {
+		margin-left: 160px !important;
+		margin-top: 0px !important;
+	}
+
+	.custom-contact {
+		margin-left: 160px !important;
+		margin-top: -72px !important;
+	}
+
+	.button-responsive {
+		margin-bottom: 100px !important;
+	}
+
+	.custom-bagde {
+		color: transparent !important;
+		background-color: transparent !important;
+	}
+
+	.custom-navbar-dorp {
+		display: none !important;
+	}
+
+	.la {
+		display: block !important;
+		padding: 0.1rem !important;
+		cursor: pointer;
+	}
+
+	.dropdown-toggle::after {
+		display: inline-block;
+		margin-left: .255em;
+		vertical-align: .255em;
+		content: "";
+		border-top: none !important;
+		border-right: .3em solid transparent;
+		border-bottom: 0;
+		border-left: none !important;
+	}
+
+	.custom-search-navbar {
+		margin-top: -29px !important;
+		margin-left: 35px !important;
+	}
+
+	.active {
+		margin-left: 18px !important;
+	}
+
+	.custom-navbar-logout {
+		margin-left: 160px !important;
+	}
+	.row-responsive{
+		margin-right: 0px;
+		margin-top: 30px;
+	}
+
+	.card-body-home{
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+	
+	.btn-success-custom-service{
+		margin-top: 11px!important;
+
+	}
+
+	.img-custom-back{
+		margin-top: 45px;
+	}
+}
+
+/* Fronti */
+@media (min-height:1024px) {
+	body {
+		background-position: center 1165px !important;
+	}
+
+}
+
+@media (max-width:768px) {
+	.active {
+		margin-left: 0 !important;
+	}
+
+	.center-content-navbar {
+		margin-top: 1px !important;
+		margin-left: 46px;
+		position: inherit;
+	}
+
+	.h4-custom {
+		margin-left: -82px !important;
+		margin-right: -73px !important;
+		margin-top: 50px !important;
+	}
+
+	.custom-button-schedule {
+		margin-right: -110px !important;
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		margin-bottom: 50px;
+		margin-top: 9px !important;
+	}
+
+	.topnav {
+		display: block;
+		margin-left: 0 !important;
+	}
+
+	.style-navbar {
+		text-align: left;
+		opacity: 0.8;
+	}
+
+	.custom-col {
+		margin-left: 15px !important;
+	}
+
+	.custom-h4-nav {
+		margin-left: 0px !important;
+	}
+
+	.bd-example {
+		margin-left: -40px;
+	}
+
+	.custom-col-contact {
+		margin-left: 35px;
+	}
+
+	.custom-col-service {
+		margin-left: 1rem !important;
+	}
+
+	.custom-next {
+		margin-right: 25px;
+	}
+
+	.custom-prev {
+		margin-left: 25px;
+	}
+
+	.custom-col-footer {
+		margin-left: -90px !important;
+	}
+
+	.custom-input-footer {
+		width: 280px;
+	}
+
+	.custom-button-footer {
+		margin-right: -98px !important;
+	}
+
+	.custom-col-footer-social-media {
+		margin-left: -107px;
+		margin-top: 1rem;
+	}
+
+	.custom-hr-footer {
+		margin-left: -25px;
+		margin-right: -10px;
+	}
+
+	.custom-p-footer {
+		margin-left: 30px;
+	}
+
+	.custom-card-service {
+		margin-right: 30px !important;
+		margin-left: -10px !important;
+		border-radius: 2rem !important;
+		margin-top: -130px !important;
+		margin-bottom: 15px !important;
+		box-shadow: 0px 4px 12px -8px #707070;
+		margin-right: 15px;
+	}
+
+	.imgg {
+		margin-left: -70px !important;
+	}
+
+	.custom-drop-responsive {
+		position: relative !important;
+	}
+
+	.custom-content-clients {
+		margin-right: 73px !important;
+	}
+
+	.custom-content {
+		margin-right: 65px !important;
+	}
+
+}
+
+@media (max-width:900px) {
+	.custom-btn-col-contact {
+		margin-left: 0px;
+		margin-top: -30px;
+	}
+
+	.custom-col-label-contact {
+		display: block;
+	}
+
+	.custom-textarea-col-contact {
+		margin-left: 0px;
+	}
+
+}
